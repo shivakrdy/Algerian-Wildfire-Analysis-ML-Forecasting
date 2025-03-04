@@ -1,1 +1,1 @@
-# Algerian-Wildfire-Analysis-ML-Forecasting
+# Algerian-Wildfire-Analysis-ML-Forecasting.
